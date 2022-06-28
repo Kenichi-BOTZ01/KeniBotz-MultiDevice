@@ -1,11 +1,11 @@
 {
-  "ownerNumber": ["6289629015724@s.whatsapp.net"],
-  "ownerName": ["YusufXHost"],
-  "botName": "YUSUF BOTZ",
+  "ownerNumber": ["62895388375000@s.whatsapp.net"],
+  "ownerName": ["Kenichi"],
+  "botName": "KeniBotz - MD",
   "sessionName": "session",
   "pathimg": "./media/chris2.jpg",
   "gamewaktu": 90,
-  "limitCount": 30,
+  "limitCount": 20,
   "gcount": {
 	"prem": 9999,
 	"user": 25
