@@ -1,25 +1,23 @@
 /*HELLO BRO TERIMA KASIH SUDAH AMBIL SCRIPT INI JANGAN LUPA IKUTI DAN SUBSCRIBE MEDIA SOSIAL OWNER DAN BOT
 
-Sc Ori By Arasya
-Sc Record By Christian ID
+Sc Ori By KeniBotz 
+Sc Record By ( Buat Yg Nge Recode SC Ini!! , Ganti Teks ini Jadi Nama Github Kalian!!!)
 Note : Jangan Perjualkan Sc Ini!!!
 
-Instagram Jojo : @arsrfi.jpg
-Youtube : Jojo Channel
+Instagram KeniBotz ( Kenichi ) : @kenibotz_kenichi
+Youtube : Kenichi
 
-Instagram : @chris.tianid
-Youtube : Christian ID
-WhatsApp : 0859-2116-5857
+Instagram : @kenichiytch
+Youtube : Kenichi
+WhatsApp : 0895-3883-75000
 
 THANKS TO
-- Irfan Hardianto
-- Amell
-- Hardianto
-- Affis Junianto
-- Rafli Rusdiana
-- Febri
-- Jojo
-- Christian ID
+- My God ✝️⛪
+- My Parents 👨‍👩‍👦
+- Mahesa ( Supporter )
+- My Member Of KeniBotz 🫂
+- Wibusoft
+- Kuraimos 🐢
 
 Terimakasih*/
 "use strict";
